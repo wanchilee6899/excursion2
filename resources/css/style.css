@@ -28,7 +28,15 @@ body {
 .link--cta {
     color: aquamarine;
     font-size: 16px;
+}
 
+/* footer */
+.link--footer {
+    color: grey;
+    font-size: 16px;
+    text-align: right;
+    margin-top: 60px;
+    margin-bottom: 30px;
 }
 
 /* image */
